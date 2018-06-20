@@ -2,7 +2,7 @@
 
 <span class="image main">![](assets/images/about/team_photo.jpg)</span>
 
-DRIV3N (aka Team 3) is comprised of six MIT undergraduates from MIT's AeroAstro, Chemical Engineering, and Computer Science department, which are individually described in the page below. The team varies in experience, but overall shares a genuine interest in topics around autonomy, such as path planning, computer vision, and control systems. These interests in autonomy, along with graduation requirements, drove them all indivdually to take 6.141 and will drive the team towards a succesful race by the end of the semester.
+DRIV3N (aka Team 3) is comprised of six MIT undergraduates from MIT's AeroAstro, Chemical Engineering, and Computer Science department, which are individually described in the page below. The team varies in experience, but overall shares a genuine interest in topics around autonomy, such as path planning, computer vision, and control systems. These interests in autonomy, along with graduation requirements, drove them all individually to take 6.141 and will drive the team towards a succesful race by the end of the semester.
 
 <span class="image left about">![](assets/images/about/Austin.jpg)</span>
 
